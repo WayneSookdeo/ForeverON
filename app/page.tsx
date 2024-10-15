@@ -76,7 +76,8 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1, duration: 0.8 }}
           >
-            "Love never fails." - 1 Corinthians 13:8
+            &quot;Love never fails.&quot;
+ - 1 Corinthians 13:8
           </motion.p>
           <MemoryGame />
         </motion.div>
